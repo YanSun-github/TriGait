@@ -31,4 +31,3 @@ If you use TriGait, please use the following BibTeX entry.
 ```
 XXXXXXXXXXXXXXXXXXXXXX
 ```
->>>>>>> f1a1164 (first commit)
