@@ -1,6 +1,6 @@
 # TriGait
 
-=======
+
 > __Check out our new version [TriGait](https://github.com/YanSun-github/TriGait)__!
 >
 > With support for CASIA-B, OUMVLP  and Gait3D Dataset
