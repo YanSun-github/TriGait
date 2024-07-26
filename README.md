@@ -1,6 +1,5 @@
 # TriGait
 
-Please Note: This code is only used for academic purposes, people cannot use this code for anything that might be considered commercial use.
 =======
 > __Check out our new version [TriGait](https://github.com/YanSun-github/TriGait)__!
 >
