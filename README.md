@@ -25,10 +25,10 @@ The other parts of the code are borrowed from other project. Thanks for their wo
 
 ## <a name="CitingGaitGraph"></a>Citing TriGait
 
-If you use TriGait, please use the following BibTeX entry.
+If you use TriGait, please cite our paper.
 
 ```
-XXXXXXXXXXXXXXXXXXXXXX
+Yan Sun, Xueling Feng, Feiran Liu, Mark Nixon. TriGait: Hybrid Fusion Strategy for Multimodal Alignment and Integration in Gait Recognition[J]. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025, 7(1): 82 - 94.
 ```
 
 # Please Note
