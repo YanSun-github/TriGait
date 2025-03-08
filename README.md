@@ -24,8 +24,6 @@ The other parts of the code are borrowed from other project. Thanks for their wo
 - [OpenGait](https://github.com/ShiqiYu/OpenGait)
 
 ## <a name="CitingGaitGraph"></a>Citing TriGait
-
-# Cite
 Yan Sun, Xueling Feng, Xiaolei Liu, Liyan Ma, Long Hu, Mark Nixon. TriGait: Hybrid Fusion Strategy for Multimodal Alignment and Integration in Gait Recognition[J]. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025, 7(1): 82 - 94.
 
 # Please Note
