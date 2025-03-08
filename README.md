@@ -7,7 +7,7 @@
 >
 > _TriGait: Hybrid Fusion Strategy for Multimodal Alignment and Integration in Gait RecognitionTowards a Deeper Understanding of Skeleton-based Gait Recognition_
 >
-> [论文地址]()
+> [Paper](https://ieeexplore.ieee.org/document/10612818/authors#authors)
 
 ## Quick Start
 
